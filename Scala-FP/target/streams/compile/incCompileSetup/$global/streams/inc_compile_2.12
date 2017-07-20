@@ -1,0 +1,771 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/target/scala-2.12/classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.12.1
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+26 items
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/AnagramSearch.scala -> /Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/target/scala-2.12/classes/AnagramSearch$.class
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/AnagramSearch.scala -> /Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/target/scala-2.12/classes/AnagramSearch.class
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/Calculator.scala -> /Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/target/scala-2.12/classes/Calculator$.class
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/Calculator.scala -> /Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/target/scala-2.12/classes/Calculator.class
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> /Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/target/scala-2.12/classes/DataTransformer$.class
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> /Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/target/scala-2.12/classes/DataTransformer$FirstLineType$.class
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> /Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/target/scala-2.12/classes/DataTransformer$LogLine$.class
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> /Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/target/scala-2.12/classes/DataTransformer$LogLine.class
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> /Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/target/scala-2.12/classes/DataTransformer$LogLineType.class
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> /Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/target/scala-2.12/classes/DataTransformer$Results$.class
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> /Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/target/scala-2.12/classes/DataTransformer$Results.class
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> /Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/target/scala-2.12/classes/DataTransformer$SecondLineType$.class
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> /Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/target/scala-2.12/classes/DataTransformer$ThirdLineType$.class
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> /Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/target/scala-2.12/classes/DataTransformer.class
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/IO.scala -> /Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/target/scala-2.12/classes/IO$.class
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/IO.scala -> /Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/target/scala-2.12/classes/IO$Return$.class
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/IO.scala -> /Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/target/scala-2.12/classes/IO$Return.class
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/IO.scala -> /Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/target/scala-2.12/classes/IO$Suspend$.class
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/IO.scala -> /Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/target/scala-2.12/classes/IO$Suspend.class
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/IO.scala -> /Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/target/scala-2.12/classes/IO.class
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/Trampoline.scala -> /Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/target/scala-2.12/classes/Trampoline$.class
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/Trampoline.scala -> /Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/target/scala-2.12/classes/Trampoline$Call$.class
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/Trampoline.scala -> /Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/target/scala-2.12/classes/Trampoline$Call.class
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/Trampoline.scala -> /Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/target/scala-2.12/classes/Trampoline$Return$.class
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/Trampoline.scala -> /Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/target/scala-2.12/classes/Trampoline$Return.class
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/Trampoline.scala -> /Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/target/scala-2.12/classes/Trampoline.class
+binary dependencies:
+10 items
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/AnagramSearch.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre/lib/rt.jar
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/AnagramSearch.scala -> /Users/kdivincenzo/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.1.jar
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/Calculator.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre/lib/rt.jar
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/Calculator.scala -> /Users/kdivincenzo/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.1.jar
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre/lib/rt.jar
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> /Users/kdivincenzo/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.1.jar
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/IO.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre/lib/rt.jar
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/IO.scala -> /Users/kdivincenzo/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.1.jar
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/Trampoline.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre/lib/rt.jar
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/Trampoline.scala -> /Users/kdivincenzo/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.1.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+1 items
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/AnagramSearch.scala -> /Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/IO.scala
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+26 items
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/AnagramSearch.scala -> AnagramSearch
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/AnagramSearch.scala -> AnagramSearch$
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/Calculator.scala -> Calculator
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/Calculator.scala -> Calculator$
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> DataTransformer
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> DataTransformer$
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> DataTransformer$FirstLineType$
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> DataTransformer$LogLine
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> DataTransformer$LogLine$
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> DataTransformer$LogLineType
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> DataTransformer$Results
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> DataTransformer$Results$
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> DataTransformer$SecondLineType$
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> DataTransformer$ThirdLineType$
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/IO.scala -> IO
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/IO.scala -> IO$
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/IO.scala -> IO$Return
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/IO.scala -> IO$Return$
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/IO.scala -> IO$Suspend
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/IO.scala -> IO$Suspend$
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/Trampoline.scala -> Trampoline
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/Trampoline.scala -> Trampoline$
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/Trampoline.scala -> Trampoline$Call
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/Trampoline.scala -> Trampoline$Call$
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/Trampoline.scala -> Trampoline$Return
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/Trampoline.scala -> Trampoline$Return$
+used names:
+592 items
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/AnagramSearch.scala -> +
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/AnagramSearch.scala -> ++
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/AnagramSearch.scala -> +:
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/AnagramSearch.scala -> -
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/AnagramSearch.scala -> ->
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/AnagramSearch.scala -> :+
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/AnagramSearch.scala -> <
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/AnagramSearch.scala -> <byname>
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/AnagramSearch.scala -> <init>
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/AnagramSearch.scala -> <refinement>
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/AnagramSearch.scala -> <repeated>
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/AnagramSearch.scala -> ==
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/AnagramSearch.scala -> A
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/AnagramSearch.scala -> A1
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/AnagramSearch.scala -> AnagramSearch
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/AnagramSearch.scala -> Any
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/AnagramSearch.scala -> AnyRef
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/AnagramSearch.scala -> Array
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/AnagramSearch.scala -> ArrayOps
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/AnagramSearch.scala -> ArrowAssoc
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/AnagramSearch.scala -> Await
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/AnagramSearch.scala -> Awaitable
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/AnagramSearch.scala -> B
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/AnagramSearch.scala -> Boolean
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/AnagramSearch.scala -> BufferedSource
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/AnagramSearch.scala -> CanBuildFrom
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/AnagramSearch.scala -> Char
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/AnagramSearch.scala -> Codec
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/AnagramSearch.scala -> Coll
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/AnagramSearch.scala -> Duration
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/AnagramSearch.scala -> Either
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/AnagramSearch.scala -> ExecutionContext
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/AnagramSearch.scala -> Function1
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/AnagramSearch.scala -> Function2
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/AnagramSearch.scala -> Future
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/AnagramSearch.scala -> GenTraversableOnce
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/AnagramSearch.scala -> HashSet
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/AnagramSearch.scala -> IO
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/AnagramSearch.scala -> Implicits
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/AnagramSearch.scala -> IndexedSeq
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/AnagramSearch.scala -> Inf
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/AnagramSearch.scala -> Infinite
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/AnagramSearch.scala -> Int
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/AnagramSearch.scala -> Iterator
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/AnagramSearch.scala -> K
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/AnagramSearch.scala -> Left
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/AnagramSearch.scala -> LocalDateTime
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/AnagramSearch.scala -> Long
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/AnagramSearch.scala -> M
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/AnagramSearch.scala -> Map
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/AnagramSearch.scala -> MatchError
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/AnagramSearch.scala -> Nil
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/AnagramSearch.scala -> None
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/AnagramSearch.scala -> Nothing
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/AnagramSearch.scala -> NumberFormat
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/AnagramSearch.scala -> Object
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/AnagramSearch.scala -> Option
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/AnagramSearch.scala -> Predef
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/AnagramSearch.scala -> R
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/AnagramSearch.scala -> Range
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/AnagramSearch.scala -> RichChar
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/AnagramSearch.scala -> RichInt
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/AnagramSearch.scala -> Right
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/AnagramSearch.scala -> S
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/AnagramSearch.scala -> Seq
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/AnagramSearch.scala -> SeqLike
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/AnagramSearch.scala -> Some
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/AnagramSearch.scala -> Source
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/AnagramSearch.scala -> String
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/AnagramSearch.scala -> StringContext
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/AnagramSearch.scala -> T
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/AnagramSearch.scala -> T0
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/AnagramSearch.scala -> T1
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/AnagramSearch.scala -> T2
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/AnagramSearch.scala -> T3
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/AnagramSearch.scala -> Temporal
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/AnagramSearch.scala -> That
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/AnagramSearch.scala -> Throwable
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/AnagramSearch.scala -> TraversableOnce
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/AnagramSearch.scala -> Tuple2
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/AnagramSearch.scala -> Tuple3
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/AnagramSearch.scala -> U
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/AnagramSearch.scala -> Unit
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/AnagramSearch.scala -> V
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/AnagramSearch.scala -> V1
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/AnagramSearch.scala -> X
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/AnagramSearch.scala -> _1
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/AnagramSearch.scala -> _2
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/AnagramSearch.scala -> _root_
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/AnagramSearch.scala -> acc
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/AnagramSearch.scala -> annotation
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/AnagramSearch.scala -> apply
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/AnagramSearch.scala -> asInstanceOf
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/AnagramSearch.scala -> between
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/AnagramSearch.scala -> c
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/AnagramSearch.scala -> canBuildFrom
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/AnagramSearch.scala -> charArrayOps
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/AnagramSearch.scala -> charWrapper
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/AnagramSearch.scala -> checkCharCountsRec
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/AnagramSearch.scala -> close
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/AnagramSearch.scala -> cnt
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/AnagramSearch.scala -> collection
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/AnagramSearch.scala -> concurrent
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/AnagramSearch.scala -> dict
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/AnagramSearch.scala -> dictionary
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/AnagramSearch.scala -> drop
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/AnagramSearch.scala -> dur
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/AnagramSearch.scala -> duration
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/AnagramSearch.scala -> empty
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/AnagramSearch.scala -> err
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/AnagramSearch.scala -> fallbackSystemCodec
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/AnagramSearch.scala -> filePath
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/AnagramSearch.scala -> findWords
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/AnagramSearch.scala -> findWordsPar
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/AnagramSearch.scala -> foldLeft
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/AnagramSearch.scala -> foldR
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/AnagramSearch.scala -> foldSeq
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/AnagramSearch.scala -> foldSeqOffset
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/AnagramSearch.scala -> foldSeqRec
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/AnagramSearch.scala -> foreach
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/AnagramSearch.scala -> format
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/AnagramSearch.scala -> fromFile
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/AnagramSearch.scala -> func
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/AnagramSearch.scala -> get
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/AnagramSearch.scala -> getIntegerInstance
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/AnagramSearch.scala -> getLines
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/AnagramSearch.scala -> global
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/AnagramSearch.scala -> hasNext
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/AnagramSearch.scala -> immutable
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/AnagramSearch.scala -> initial
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/AnagramSearch.scala -> intWrapper
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/AnagramSearch.scala -> io
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/AnagramSearch.scala -> isEmpty
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/AnagramSearch.scala -> isInstanceOf
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/AnagramSearch.scala -> isSpaceChar
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/AnagramSearch.scala -> java
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/AnagramSearch.scala -> k
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/AnagramSearch.scala -> lookup
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/AnagramSearch.scala -> makeSet
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/AnagramSearch.scala -> map
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/AnagramSearch.scala -> ne
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/AnagramSearch.scala -> next
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/AnagramSearch.scala -> now
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/AnagramSearch.scala -> ofChar
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/AnagramSearch.scala -> offset
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/AnagramSearch.scala -> package
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/AnagramSearch.scala -> parallelFoldSeq
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/AnagramSearch.scala -> parallelism
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/AnagramSearch.scala -> println
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/AnagramSearch.scala -> reduce
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/AnagramSearch.scala -> reduceR
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/AnagramSearch.scala -> res
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/AnagramSearch.scala -> result
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/AnagramSearch.scala -> runUnsafe
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/AnagramSearch.scala -> s
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/AnagramSearch.scala -> scala
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/AnagramSearch.scala -> seq
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/AnagramSearch.scala -> sequence
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/AnagramSearch.scala -> sets
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/AnagramSearch.scala -> size
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/AnagramSearch.scala -> sourceText
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/AnagramSearch.scala -> srcCharCnts
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/AnagramSearch.scala -> start
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/AnagramSearch.scala -> state
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/AnagramSearch.scala -> stop
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/AnagramSearch.scala -> stream
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/AnagramSearch.scala -> tail
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/AnagramSearch.scala -> tailrec
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/AnagramSearch.scala -> take
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/AnagramSearch.scala -> text
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/AnagramSearch.scala -> time
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/AnagramSearch.scala -> timeFunction
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/AnagramSearch.scala -> title
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/AnagramSearch.scala -> toCharArray
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/AnagramSearch.scala -> toCharCounts
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/AnagramSearch.scala -> toCheck
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/AnagramSearch.scala -> toLowerCase
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/AnagramSearch.scala -> toMillis
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/AnagramSearch.scala -> toSeq
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/AnagramSearch.scala -> unapply
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/AnagramSearch.scala -> unary_!
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/AnagramSearch.scala -> unchecked
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/AnagramSearch.scala -> until
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/AnagramSearch.scala -> v
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/AnagramSearch.scala -> value
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/AnagramSearch.scala -> word
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/AnagramSearch.scala -> wordSeq
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/AnagramSearch.scala -> words
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/AnagramSearch.scala -> wordsIter
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/AnagramSearch.scala -> x
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/AnagramSearch.scala -> x$1
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/AnagramSearch.scala -> xs
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/Calculator.scala -> *
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/Calculator.scala -> +
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/Calculator.scala -> -
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/Calculator.scala -> /
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/Calculator.scala -> <byname>
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/Calculator.scala -> <init>
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/Calculator.scala -> <repeated>
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/Calculator.scala -> ==
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/Calculator.scala -> Any
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/Calculator.scala -> AnyRef
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/Calculator.scala -> Array
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/Calculator.scala -> Boolean
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/Calculator.scala -> Calculator
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/Calculator.scala -> Function1
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/Calculator.scala -> Function2
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/Calculator.scala -> Function3
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/Calculator.scala -> Int
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/Calculator.scala -> IntFnc
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/Calculator.scala -> MatchError
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/Calculator.scala -> Nothing
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/Calculator.scala -> Object
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/Calculator.scala -> Predef
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/Calculator.scala -> RuntimeException
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/Calculator.scala -> StdIn
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/Calculator.scala -> String
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/Calculator.scala -> StringContext
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/Calculator.scala -> StringOps
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/Calculator.scala -> T1
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/Calculator.scala -> T2
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/Calculator.scala -> T3
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/Calculator.scala -> Tuple2
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/Calculator.scala -> Tuple3
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/Calculator.scala -> Unit
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/Calculator.scala -> _1
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/Calculator.scala -> _2
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/Calculator.scala -> _3
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/Calculator.scala -> _root_
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/Calculator.scala -> apply
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/Calculator.scala -> augmentString
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/Calculator.scala -> calculator
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/Calculator.scala -> computeResult
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/Calculator.scala -> cont
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/Calculator.scala -> displayResult
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/Calculator.scala -> firstNum
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/Calculator.scala -> fnc
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/Calculator.scala -> getInput
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/Calculator.scala -> getOperation
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/Calculator.scala -> getSecondInput
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/Calculator.scala -> input
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/Calculator.scala -> io
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/Calculator.scala -> ne
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/Calculator.scala -> opAndInputs
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/Calculator.scala -> opFnc
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/Calculator.scala -> package
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/Calculator.scala -> print
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/Calculator.scala -> println
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/Calculator.scala -> readLine
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/Calculator.scala -> res
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/Calculator.scala -> result
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/Calculator.scala -> s
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/Calculator.scala -> scala
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/Calculator.scala -> shouldContinue
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/Calculator.scala -> toInt
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/Calculator.scala -> toLowerCase
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/Calculator.scala -> x
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/Calculator.scala -> y
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> !=
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> #::
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> &&
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> +
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> ::
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> <byname>
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> <init>
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> ==
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> A
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> AbstractFunction5
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> Any
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> AnyRef
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> Array
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> ArrayOps
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> B
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> Boolean
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> BufferedReader
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> BufferedSource
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> CanBuildFrom
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> CharSequence
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> Closeable
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> Codec
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> Coll
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> ConsWrapper
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> DataTransformer
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> DataTransformer$$makeOutputFilename
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> Either
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> ExecutionContext
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> File
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> FirstLineType
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> Function1
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> Function2
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> Future
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> Implicits
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> IndexOutOfBoundsException
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> Int
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> Iterator
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> Left
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> List
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> LogLine
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> LogLineType
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> M
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> MatchError
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> None
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> Nothing
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> Object
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> Option
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> Predef
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> PrintWriter
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> Product
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> R
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> Regex
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> Results
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> Right
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> ScalaRunTime
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> SecondLineType
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> Seq
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> Serializable
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> Some
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> Source
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> Statics
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> Stream
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> String
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> StringOps
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> T
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> T0
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> T1
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> T2
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> T3
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> T4
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> T5
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> That
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> ThirdLineType
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> Try
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> Tuple2
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> Tuple5
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> U
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> Unit
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> Vector
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> _1
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> _2
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> _root_
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> _toString
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> allFiles
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> anyHash
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> apply
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> applyM
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> asInstanceOf
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> atck
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> augmentString
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> authType
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> baseIp
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> bufferedReader
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> cIp
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> canBuildFrom
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> ckt
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> close
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> code
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> collection
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> concurrent
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> consWrapper
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> cprt
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> csPort
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> currentLine
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> empty
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> eq
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> errorWriter
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> f
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> fallbackSystemCodec
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> file
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> fileFilter
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> fileName
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> fileNameMatch
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> fileStream
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> fileStreamToLogLines
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> fileToStream
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> filter
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> finalizeHash
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> findFirstIn
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> firstMatches
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> firstRegex
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> foldLeft
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> foldOverFileLines
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> fromFile
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> get
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> getName
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> getParentFile
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> global
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> head
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> idNo
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> immutable
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> inputPath
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> internalPath
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> io
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> isDefined
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> isEmpty
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> isInstanceOf
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> iterateMatchingFiles
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> java
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> lengthCompare
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> lineCode
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> lineType
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> listFiles
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> ll
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> logDateTime
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> logLine
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> logLineWriter
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> mDate
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> mTime
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> makeOutputFile
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> map
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> matching
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> mix
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> mkString
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> msg
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> name
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> ne
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> num
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> number
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> ofRef
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> outputWriter
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> package
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> path
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> postfix
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> processFileFuture
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> processFileInMonad
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> processFileTry
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> protocol
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> pt
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> r
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> readFileRec
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> readLine
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> reader
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> refArrayOps
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> regexPatternBase
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> res
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> resp
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> response
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> runtime
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> sIp
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> scPort
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> scala
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> secondMatches
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> secondRegex
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> sip
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> sourceFile
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> split
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> sprt
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> src
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> stream
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> tail
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> thirdMatches
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> thirdRegex
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> toInt
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> toSeq
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> toString
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> toVector
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> typeNo
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> typedProductIterator
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> unapplySeq
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> unary_!
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> unmatched
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> unmatchedLineWriter
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> using
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> util
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> value
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> version
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> write
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> x$10
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> x$11
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> x$12
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> x$13
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> x$14
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> x$15
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> x$16
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> x$17
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> x$18
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> x$19
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> x$20
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> x$21
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> x$22
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> x$23
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> x$24
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> x$25
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> x$6
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> x$7
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> x$8
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> x$9
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> ||
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/IO.scala -> &&
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/IO.scala -> <byname>
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/IO.scala -> <init>
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/IO.scala -> ==
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/IO.scala -> A
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/IO.scala -> Any
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/IO.scala -> AnyRef
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/IO.scala -> B
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/IO.scala -> Boolean
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/IO.scala -> Either
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/IO.scala -> Function0
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/IO.scala -> Function1
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/IO.scala -> IO
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/IO.scala -> IndexOutOfBoundsException
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/IO.scala -> Int
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/IO.scala -> Iterator
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/IO.scala -> MatchError
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/IO.scala -> None
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/IO.scala -> Nothing
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/IO.scala -> Object
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/IO.scala -> Option
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/IO.scala -> Predef
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/IO.scala -> Product
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/IO.scala -> Return
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/IO.scala -> ScalaRunTime
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/IO.scala -> Serializable
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/IO.scala -> Some
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/IO.scala -> String
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/IO.scala -> Suspend
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/IO.scala -> T
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/IO.scala -> T0
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/IO.scala -> Throwable
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/IO.scala -> Try
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/IO.scala -> Unit
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/IO.scala -> _hashCode
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/IO.scala -> _root_
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/IO.scala -> _toString
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/IO.scala -> a
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/IO.scala -> apply
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/IO.scala -> asInstanceOf
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/IO.scala -> eq
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/IO.scala -> f
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/IO.scala -> isInstanceOf
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/IO.scala -> msg
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/IO.scala -> package
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/IO.scala -> println
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/IO.scala -> r
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/IO.scala -> run
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/IO.scala -> runtime
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/IO.scala -> s
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/IO.scala -> scala
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/IO.scala -> toEither
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/IO.scala -> toString
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/IO.scala -> typedProductIterator
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/IO.scala -> util
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/IO.scala -> ||
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/Trampoline.scala -> &&
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/Trampoline.scala -> <byname>
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/Trampoline.scala -> <init>
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/Trampoline.scala -> ==
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/Trampoline.scala -> A
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/Trampoline.scala -> Any
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/Trampoline.scala -> AnyRef
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/Trampoline.scala -> Boolean
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/Trampoline.scala -> Call
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/Trampoline.scala -> Function0
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/Trampoline.scala -> IndexOutOfBoundsException
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/Trampoline.scala -> Int
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/Trampoline.scala -> Iterator
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/Trampoline.scala -> MatchError
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/Trampoline.scala -> None
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/Trampoline.scala -> Nothing
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/Trampoline.scala -> Object
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/Trampoline.scala -> Option
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/Trampoline.scala -> Predef
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/Trampoline.scala -> Product
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/Trampoline.scala -> Return
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/Trampoline.scala -> ScalaRunTime
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/Trampoline.scala -> Serializable
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/Trampoline.scala -> Some
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/Trampoline.scala -> String
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/Trampoline.scala -> T
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/Trampoline.scala -> T0
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/Trampoline.scala -> Trampoline
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/Trampoline.scala -> _hashCode
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/Trampoline.scala -> _root_
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/Trampoline.scala -> _toString
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/Trampoline.scala -> annotation
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/Trampoline.scala -> apply
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/Trampoline.scala -> asInstanceOf
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/Trampoline.scala -> bounce
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/Trampoline.scala -> eq
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/Trampoline.scala -> isInstanceOf
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/Trampoline.scala -> op
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/Trampoline.scala -> package
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/Trampoline.scala -> result
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/Trampoline.scala -> runtime
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/Trampoline.scala -> scala
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/Trampoline.scala -> t
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/Trampoline.scala -> tailrec
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/Trampoline.scala -> thunk
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/Trampoline.scala -> toString
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/Trampoline.scala -> typedProductIterator
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/Trampoline.scala -> x
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/Trampoline.scala -> ||
+product stamps:
+26 items
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/target/scala-2.12/classes/AnagramSearch$.class -> lastModified(1500493582000)
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/target/scala-2.12/classes/AnagramSearch.class -> lastModified(1500493582000)
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/target/scala-2.12/classes/Calculator$.class -> lastModified(1500493582000)
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/target/scala-2.12/classes/Calculator.class -> lastModified(1500493582000)
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/target/scala-2.12/classes/DataTransformer$.class -> lastModified(1500493582000)
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/target/scala-2.12/classes/DataTransformer$FirstLineType$.class -> lastModified(1500493582000)
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/target/scala-2.12/classes/DataTransformer$LogLine$.class -> lastModified(1500493582000)
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/target/scala-2.12/classes/DataTransformer$LogLine.class -> lastModified(1500493582000)
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/target/scala-2.12/classes/DataTransformer$LogLineType.class -> lastModified(1500493582000)
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/target/scala-2.12/classes/DataTransformer$Results$.class -> lastModified(1500493582000)
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/target/scala-2.12/classes/DataTransformer$Results.class -> lastModified(1500493582000)
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/target/scala-2.12/classes/DataTransformer$SecondLineType$.class -> lastModified(1500493582000)
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/target/scala-2.12/classes/DataTransformer$ThirdLineType$.class -> lastModified(1500493582000)
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/target/scala-2.12/classes/DataTransformer.class -> lastModified(1500493582000)
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/target/scala-2.12/classes/IO$.class -> lastModified(1500493582000)
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/target/scala-2.12/classes/IO$Return$.class -> lastModified(1500493582000)
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/target/scala-2.12/classes/IO$Return.class -> lastModified(1500493582000)
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/target/scala-2.12/classes/IO$Suspend$.class -> lastModified(1500493582000)
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/target/scala-2.12/classes/IO$Suspend.class -> lastModified(1500493582000)
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/target/scala-2.12/classes/IO.class -> lastModified(1500493582000)
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/target/scala-2.12/classes/Trampoline$.class -> lastModified(1500493582000)
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/target/scala-2.12/classes/Trampoline$Call$.class -> lastModified(1500493582000)
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/target/scala-2.12/classes/Trampoline$Call.class -> lastModified(1500493582000)
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/target/scala-2.12/classes/Trampoline$Return$.class -> lastModified(1500493582000)
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/target/scala-2.12/classes/Trampoline$Return.class -> lastModified(1500493582000)
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/target/scala-2.12/classes/Trampoline.class -> lastModified(1500493582000)
+source stamps:
+5 items
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/AnagramSearch.scala -> hash(e4c2079e40133dbb6cecab72d42dda03814d2099)
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/Calculator.scala -> hash(0cfd35e4bb9c59d32d5b06babb8218a4a3c16d64)
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> hash(68deb3060aec509d1a86619fd4cd2ef86b0aa101)
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/IO.scala -> hash(ffedbeb0525646385907c8eee03fba8a4b7caea0)
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/Trampoline.scala -> hash(d2e3955b11bcd0d6e82a39ed40a186f65e8c4c75)
+binary stamps:
+2 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre/lib/rt.jar -> lastModified(1481605174000)
+/Users/kdivincenzo/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.1.jar -> lastModified(1480936165000)
+class names:
+2 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre/lib/rt.jar -> java.lang.Object
+/Users/kdivincenzo/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.1.jar -> scala.Serializable
+internal apis:
+5 items
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/AnagramSearch.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhw8+LstAAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAZc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwa+A77nQABm5vdGlmeXNxAH4ADNZcg/10AA1BbmFncmFtU2VhcmNoc3EAfgAM0UnZsXQABHdhaXRzcQB+AAzgFTVvdAANJGFzSW5zdGFuY2VPZnNxAH4ADFPWA9h0AAZlcXVhbHNzcQB+AAxuW0+jdAAMYXNJbnN0YW5jZU9mc3EAfgAM4KTChXQADHN5bmNocm9uaXplZHNxAH4ADN6/JCh0AA0kaXNJbnN0YW5jZU9mc3EAfgAMyFpY0nQABG1haW5zcQB+AAzqnE76dAAHZm9sZFNlcXNxAH4ADDB8HBh0AAx0aW1lRnVuY3Rpb25zcQB+AAxRO5cOdAAJbm90aWZ5QWxsc3EAfgAMm2xli3QAGXBhcmFsbGVsRm9sZFNlcSRkZWZhdWx0JDNzcQB+AAzU6UgBdAAMaXNJbnN0YW5jZU9mc3EAfgAMZOlwsHQAAj09c3EAfgAMZ9PZnHQABWNsb25lc3EAfgAMJUll+3QAD3BhcmFsbGVsRm9sZFNlcXNxAH4ADB8+JSp0AAh0b1N0cmluZ3NxAH4ADMWOCrx0AAIhPXNxAH4ADHNFABt0AAhnZXRDbGFzc3NxAH4ADEucDdN0AAJuZXNxAH4ADA++rMl0AAJlcXNxAH4ADDI6SrZ0AAIjI3NxAH4ADHykULJ0AAhmaW5hbGl6ZXNxAH4ADDyIu7d0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEl4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cABxAH4AEXVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AYHNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBJTAAJaW5oZXJpdGVkcQB+AElMAAdwYXJlbnRzcQB+AEl4cQB+AGVzcQB+AGB1cQB+AEQAAAABc3IADXhzYnRpLmFwaS5EZWZSvp/ifLQ2aQIAAkwACnJldHVyblR5cGV0ABBMeHNidGkvYXBpL1R5cGU7WwAPdmFsdWVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvUGFyYW1ldGVyTGlzdDt4cQB+AEpxAH4AU3VxAH4AVAAAAABzcQB+AFYAcQB+AB91cQB+AFgAAAAAc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AZHQABFVuaXRzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AGRzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AIB1cgAaW0x4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdDv10zod8rNw7gIAAHhwAAAAAXNyABd4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdNbFvBxkSXTjAgACWgAKaXNJbXBsaWNpdFsACnBhcmFtZXRlcnN0ABxbTHhzYnRpL2FwaS9NZXRob2RQYXJhbWV0ZXI7eHAAdXIAHFtMeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlcjvPuMVdpd21bQIAAHhwAAAAAXNyABl4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyH0WuF9NJsOoCAARaAApoYXNEZWZhdWx0TAAIbW9kaWZpZXJ0AB1MeHNidGkvYXBpL1BhcmFtZXRlck1vZGlmaWVyO0wABG5hbWVxAH4ADUwAA3RwZXEAfgBteHAAfnIAG3hzYnRpLmFwaS5QYXJhbWV0ZXJNb2RpZmllcgAAAAAAAAAAEgAAeHEAfgBbdAAFUGxhaW50AARhcmdzc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgB0WwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgBkc3EAfgBzdAAFQXJyYXlxAH4AeXVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAABc3EAfgBzdAAGU3RyaW5nc3EAfgB3c3EAfgB6dXEAfgB9AAAAA3NxAH4Af3QABGphdmFzcQB+AH90AARsYW5ncQB+AIRzcQB+AGB1cQB+AEQAAAAAc3EAfgBgdXEAfgCYAAAAAnNxAH4Ac3QABk9iamVjdHEAfgCcc3EAfgBzdAADQW55cQB+AHl1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXVxi1Wt1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABNL1VzZXJzL2tkaXZpbmNlbnpvL0Rlc2t0b3AvRlAgUHJlc2VudGF0aW9uL1NjYWxhLUZQL3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABTkwgeeQBM9u2zsq3LULdoDgU0gmQ==
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/Calculator.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwUERuOwAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAcc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwUWSleXQABm5vdGlmeXNxAH4ADMlMy8N0AAR3YWl0c3EAfgAMiWARAXQADSRhc0luc3RhbmNlT2ZzcQB+AAzthe2XdAAGZXF1YWxzc3EAfgAMVsiwCnQADGFzSW5zdGFuY2VPZnNxAH4ADJfjDA50AAhnZXRJbnB1dHNxAH4ADO8lMnN0AAxzeW5jaHJvbml6ZWRzcQB+AAzoVthldAANJGlzSW5zdGFuY2VPZnNxAH4ADOk29TV0AARtYWluc3EAfgAMqQfUDnQACW5vdGlmeUFsbHNxAH4ADMvPyY50AAxpc0luc3RhbmNlT2ZzcQB+AAwBnC4ydAANZGlzcGxheVJlc3VsdHNxAH4ADOJqx0B0AA5zaG91bGRDb250aW51ZXNxAH4ADHNK3LZ0AAI9PXNxAH4ADF4terh0AAVjbG9uZXNxAH4ADKolMEF0AAh0b1N0cmluZ3NxAH4ADCx75ld0AAIhPXNxAH4ADBYIF5p0AA1jb21wdXRlUmVzdWx0c3EAfgAMcw8xDXQADmdldFNlY29uZElucHV0c3EAfgAM3/L3YnQACGdldENsYXNzc3EAfgAMljlDoHQAAm5lc3EAfgAMm7OIMnQADGdldE9wZXJhdGlvbnNxAH4ADM08BW50AAJlcXNxAH4ADCY22rh0AApDYWxjdWxhdG9yc3EAfgAM7mlIXnQABkludEZuY3NxAH4ADBkfGMh0AAIjI3NxAH4ADFBWa3J0AAhmaW5hbGl6ZXNxAH4ADF3E3Cl0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AE94cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cABxAH4APXVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AZnNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBPTAAJaW5oZXJpdGVkcQB+AE9MAAdwYXJlbnRzcQB+AE94cQB+AGtzcQB+AGZ1cQB+AEoAAAABc3IADXhzYnRpLmFwaS5EZWZSvp/ifLQ2aQIAAkwACnJldHVyblR5cGV0ABBMeHNidGkvYXBpL1R5cGU7WwAPdmFsdWVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvUGFyYW1ldGVyTGlzdDt4cQB+AFBxAH4AWXVxAH4AWgAAAABzcQB+AFwAcQB+AB91cQB+AF4AAAAAc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AanQABFVuaXRzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AGpzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AIZ1cgAaW0x4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdDv10zod8rNw7gIAAHhwAAAAAXNyABd4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdNbFvBxkSXTjAgACWgAKaXNJbXBsaWNpdFsACnBhcmFtZXRlcnN0ABxbTHhzYnRpL2FwaS9NZXRob2RQYXJhbWV0ZXI7eHAAdXIAHFtMeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlcjvPuMVdpd21bQIAAHhwAAAAAXNyABl4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyH0WuF9NJsOoCAARaAApoYXNEZWZhdWx0TAAIbW9kaWZpZXJ0AB1MeHNidGkvYXBpL1BhcmFtZXRlck1vZGlmaWVyO0wABG5hbWVxAH4ADUwAA3RwZXEAfgBzeHAAfnIAG3hzYnRpLmFwaS5QYXJhbWV0ZXJNb2RpZmllcgAAAAAAAAAAEgAAeHEAfgBhdAAFUGxhaW50AARhcmdzc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgB6WwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgBqc3EAfgB5dAAFQXJyYXlxAH4Af3VyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAABc3EAfgB5dAAGU3RyaW5nc3EAfgB9c3EAfgCAdXEAfgCDAAAAA3NxAH4AhXQABGphdmFzcQB+AIV0AARsYW5ncQB+AIpzcQB+AGZ1cQB+AEoAAAAAc3EAfgBmdXEAfgCeAAAAAnNxAH4AeXQABk9iamVjdHEAfgCic3EAfgB5dAADQW55cQB+AH91cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXVxi1Wt1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABNL1VzZXJzL2tkaXZpbmNlbnpvL0Rlc2t0b3AvRlAgUHJlc2VudGF0aW9uL1NjYWxhLUZQL3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABQM/TXku5xZ0y1bBrq7ghiko8FtZA==
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwtZnD2wAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAABuc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hw2wX6kHQABGlkTm9zcQB+AAx9EvG2dAAGbm90aWZ5c3EAfgAMronZ43QABm51bWJlcnNxAH4ADGtsPeN0AAd1bmFwcGx5c3EAfgAMTrADJ3QAB2N1cnJpZWRzcQB+AAzaNlSOdAARPGluaXQ+JGRlZmF1bHQkMTlzcQB+AAwiIbSpdAAPY29weSRkZWZhdWx0JDIwc3EAfgAMyFrSfnQADGludGVybmFsUGF0aHNxAH4ADDFED510ABBhcHBseSRkZWZhdWx0JDIyc3EAfgAMFSdIkXQABHdhaXRzcQB+AAxQFPX9dAAPYXBwbHkkZGVmYXVsdCQ0c3EAfgAMhH4QTHQAEDxpbml0PiRkZWZhdWx0JDVzcQB+AAw9UQ5bdAAOY29weSRkZWZhdWx0JDJzcQB+AAyhI8EadAANJGFzSW5zdGFuY2VPZnNxAH4ADAblt5p0AA5jb3B5JGRlZmF1bHQkNXNxAH4ADCk78op0AANja3RzcQB+AAw+1WAtdAAQYXBwbHkkZGVmYXVsdCQxOXNxAH4ADI5xdCJ0AAZiYXNlSXBzcQB+AAzB5gPpdAAMcHJvZHVjdEFyaXR5c3EAfgAMK9UuoHQABmVxdWFsc3NxAH4ADMeUXMJ0AA5jb3B5JGRlZmF1bHQkOXNxAH4ADIqAYGB0AA9jb3B5JGRlZmF1bHQkMjFzcQB+AAwInyr3dAAPY29weSRkZWZhdWx0JDEyc3EAfgAMRhJCqXQAETxpbml0PiRkZWZhdWx0JDIwc3EAfgAMmpT213QAAnB0c3EAfgAM9P2QcXQADGFzSW5zdGFuY2VPZnNxAH4ADACkc5V0AA9jb3B5JGRlZmF1bHQkMTlzcQB+AAwWTyLrdAAMc3luY2hyb25pemVkc3EAfgAMcO3n0HQAETxpbml0PiRkZWZhdWx0JDE4c3EAfgAM9rRh23QADSRpc0luc3RhbmNlT2ZzcQB+AAxE742CdAAIbGluZVR5cGVzcQB+AAwpcI8OdAAPYXBwbHkkZGVmYXVsdCQzc3EAfgAM4B8aQXQAD0RhdGFUcmFuc2Zvcm1lcnNxAH4ADEOul7x0AA9jb3B5JGRlZmF1bHQkMTVzcQB+AAypIsikdAAQPGluaXQ+JGRlZmF1bHQkNHNxAH4ADPIrOBN0AA5jb3B5JGRlZmF1bHQkOHNxAH4ADGMWvwF0AAZ0dXBsZWRzcQB+AAzb1PHWdAANVGhpcmRMaW5lVHlwZXNxAH4ADOFHofp0AA9jb3B5JGRlZmF1bHQkMTNzcQB+AAwF1ZaIdAAJdW5tYXRjaGVkc3EAfgAMvcF7nnQACGZpbGVOYW1lc3EAfgAMzVwCHnQACGNhbkVxdWFsc3EAfgAM1rIOr3QAA2NJcHNxAH4ADLEhvTl0AA5jb3B5JGRlZmF1bHQkNHNxAH4ADMoAzDh0ABE8aW5pdD4kZGVmYXVsdCQyMnNxAH4ADKM7/JZ0AA1wcm9kdWN0UHJlZml4c3EAfgAMOwvi0XQAA3NJcHNxAH4ADN3UuSx0AAlub3RpZnlBbGxzcQB+AAwCmkSJdAAEYXRja3NxAH4ADFFgOjd0AA9jb3B5JGRlZmF1bHQkMjJzcQB+AAzMkZrIdAAIYXV0aFR5cGVzcQB+AAxR81rUdAARPGluaXQ+JGRlZmF1bHQkMjFzcQB+AAzAprbXdAAMaXNJbnN0YW5jZU9mc3EAfgAMG0XWgHQAD2NvcHkkZGVmYXVsdCQxOHNxAH4ADB5vA2Z0ABA8aW5pdD4kZGVmYXVsdCQzc3EAfgAMA1pyS3QAB1Jlc3VsdHNzcQB+AAwogEYydAAHdmVyc2lvbnNxAH4ADGtrrRZ0AAhyZXNwb25zZXNxAH4ADCANZh50AA9jb3B5JGRlZmF1bHQkMTZzcQB+AAwPzDEtdAAGPGluaXQ+c3EAfgAMUcjmUXQAD2FwcGx5JGRlZmF1bHQkMnNxAH4ADI6Dvkx0AAVhcHBseXNxAH4ADGXOXPp0AAVtRGF0ZXNxAH4ADEmeYH90AAtsb2dEYXRlVGltZXNxAH4ADNkZUR90ABBhcHBseSRkZWZhdWx0JDE4c3EAfgAMwMHGbnQAAj09c3EAfgAM9YH9MXQAD2NvcHkkZGVmYXVsdCQxNHNxAH4ADP4u0al0ABBhcHBseSRkZWZhdWx0JDIxc3EAfgAMYg4JB3QABnR5cGVOb3NxAH4ADOqCrIB0AAVjbG9uZXNxAH4ADLqprF50AANzcmNzcQB+AAympKlhdAAPY29weSRkZWZhdWx0JDIzc3EAfgAMonZrI3QADmNvcHkkZGVmYXVsdCQ3c3EAfgAMw4vQMXQAD2NvcHkkZGVmYXVsdCQxMHNxAH4ADFR5J2V0ABpwcm9jZXNzRmlsZXNJblBhdGhQYXJhbGxlbHNxAH4ADD5bYsh0AAYkaW5pdCRzcQB+AAxwGUjPdAAGc2NQb3J0c3EAfgAMRiKxznQADmNvcHkkZGVmYXVsdCQzc3EAfgAMX812QXQABGNvcHlzcQB+AAybzXTVdAAPY29weSRkZWZhdWx0JDE3c3EAfgAMnSKdpHQAC0xvZ0xpbmVUeXBlc3EAfgAMjybUcHQACHRvU3RyaW5nc3EAfgAM24RxmHQAEnByb2Nlc3NGaWxlc0luUGF0aHNxAH4ADLVqJXF0AANtc2dzcQB+AAym3c6ydAAOU2Vjb25kTGluZVR5cGVzcQB+AAx8CjOzdAACIT1zcQB+AAwCNQxLdAANRmlyc3RMaW5lVHlwZXNxAH4ADMQVQmh0AA9hcHBseSRkZWZhdWx0JDVzcQB+AAzXT8nHdAANc2Vjb25kTWF0Y2hlc3NxAH4ADJMflAd0AAhnZXRDbGFzc3NxAH4ADM7YCmp0AA5jb3B5JGRlZmF1bHQkMXNxAH4ADPop8sN0AAhsaW5lQ29kZXNxAH4ADHB0og90ABJtYWtlT3V0cHV0RmlsZW5hbWVzcQB+AAykOMCQdAAOY29weSRkZWZhdWx0JDZzcQB+AAw+gc2+dAAMdGhpcmRNYXRjaGVzc3EAfgAM2HRmPXQABmNzUG9ydHNxAH4ADAbeRgB0AAJuZXNxAH4ADCb+Vdl0AAVtVGltZXNxAH4ADL6GMph0AAxmaXJzdE1hdGNoZXNzcQB+AAzj11qodAAPY29weSRkZWZhdWx0JDExc3EAfgAM451ogHQAEGFwcGx5JGRlZmF1bHQkMjBzcQB+AAwov9GqdAAQPGluaXQ+JGRlZmF1bHQkMnNxAH4ADKhuQY90AAhwcm90b2NvbHNxAH4ADOdrJgd0AAJlcXNxAH4ADE+R1jl0AA9wcm9kdWN0SXRlcmF0b3JzcQB+AAyEnceAdAACIyNzcQB+AAxR2foUdAAHTG9nTGluZXNxAH4ADEmpOox0AAhmaW5hbGl6ZXNxAH4ADH4r75h0AA5wcm9kdWN0RWxlbWVudHNxAH4ADJnmZwV0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+APN4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cABxAH4AT3VyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAAF0AAxzY2FsYS5pbmxpbmVzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4BC3NyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgDzTAAJaW5oZXJpdGVkcQB+APNMAAdwYXJlbnRzcQB+APN4cQB+ARBzcQB+AQt1cQB+AO4AAAAAc3EAfgELdXEAfgDuAAAAAHNxAH4BC3VyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAACc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4BD3QABk9iamVjdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4BD3NyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEamF2YXNxAH4BKHQABGxhbmdzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4BKXNxAH4BHHQAA0FueXNxAH4BIHNxAH4BI3VxAH4BJgAAAAJzcQB+ASh0AAVzY2FsYXEAfgEvdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAABzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAV1cYtVrdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQATS9Vc2Vycy9rZGl2aW5jZW56by9EZXNrdG9wL0ZQIFByZXNlbnRhdGlvbi9TY2FsYS1GUC90YXJnZXQvc2NhbGEtMi4xMi9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUaN6zBgrsUJ0ahmGf1M0u+GsKoQE=
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/IO.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwoZ7ANgAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAac3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwFyannnQABm5vdGlmeXNxAH4ADNtD6aN0AAR3YWl0c3EAfgAMfFqxbHQADSRhc0luc3RhbmNlT2ZzcQB+AAxBGNW9dAADbWFwc3EAfgAM4icxDHQABmVxdWFsc3NxAH4ADNjy3gJ0AAxhc0luc3RhbmNlT2ZzcQB+AAwD7aYNdAAMc3luY2hyb25pemVkc3EAfgAMOh1bfHQADSRpc0luc3RhbmNlT2ZzcQB+AAw+9HqFdAAJcnVuVW5zYWZlc3EAfgAMl3ebCXQAB3ByaW50bG5zcQB+AAymjhwLdAAJbm90aWZ5QWxsc3EAfgAM7EuPnXQADGlzSW5zdGFuY2VPZnNxAH4ADP4Mzsl0AAVhcHBseXNxAH4ADPISQYZ0AAdmbGF0TWFwc3EAfgAMzdDlGnQAAj09c3EAfgAMUtAgtXQABWNsb25lc3EAfgAMm7RDu3QABiRpbml0JHNxAH4ADHC7Y150AAh0b1N0cmluZ3NxAH4ADM7kWmd0AAIhPXNxAH4ADHJY2DR0AAJJT3NxAH4ADFNVk210AAhnZXRDbGFzc3NxAH4ADAGBVdZ0AAJuZXNxAH4ADE1lcxt0AAJlcXNxAH4ADBVB0AB0AAIjI3NxAH4ADCBuUTN0AAhmaW5hbGl6ZXNxAH4ADKHEAuZ0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAJzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEt4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cAlxAH4ANXVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAABc3IAF3hzYnRpLmFwaS5UeXBlUGFyYW1ldGVyZ2lV2+NykGsCAAZbAAthbm5vdGF0aW9uc3EAfgBQTAACaWRxAH4ADUwACmxvd2VyQm91bmR0ABBMeHNidGkvYXBpL1R5cGU7WwAOdHlwZVBhcmFtZXRlcnNxAH4ATUwACnVwcGVyQm91bmRxAH4AXUwACHZhcmlhbmNldAAUTHhzYnRpL2FwaS9WYXJpYW5jZTt4cHVxAH4AVgAAAAB0AARJTy5Bc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHQAB05vdGhpbmdzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AGRzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AHF1cQB+AFoAAAAAc3EAfgBidAADQW55cQB+AGp+cgASeHNidGkuYXBpLlZhcmlhbmNlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAJSW52YXJpYW50fnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHEAfgB6dAAFVHJhaXR1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cQB+AGRzcQB+AIJzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AS0wACWluaGVyaXRlZHEAfgBLTAAHcGFyZW50c3EAfgBLeHEAfgBlc3EAfgCCdXEAfgBGAAAAAHNxAH4AgnVxAH4ARgAAAABzcQB+AIJ1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNxAH4AYnQABk9iamVjdHNxAH4AaHNxAH4Aa3VxAH4AbgAAAANzcQB+AHB0AARqYXZhc3EAfgBwdAAEbGFuZ3EAfgB1c3EAfgBicQB+AHhzcQB+AGhzcQB+AGt1cQB+AG4AAAACc3EAfgBwcQB+AHNxAH4AdXNxAH4ASHEAfgBVdXEAfgBWAAAAAHNxAH4AWAB0AAJJT3VxAH4AWgAAAAB+cQB+AH10AAZNb2R1bGV1cQB+AIAAAAAAc3EAfgCCcQB+AIZzcQB+AIJzcQB+AIhzcQB+AIJ1cQB+AEYAAAAAc3EAfgCCdXEAfgBGAAAAAHNxAH4AgnVxAH4AjwAAAAJzcQB+AGJxAH4AknNxAH4AaHNxAH4Aa3VxAH4AbgAAAANzcQB+AHBxAH4Al3NxAH4AcHEAfgCZcQB+AHVzcQB+AGJxAH4AeHNxAH4AaHNxAH4Aa3VxAH4AbgAAAAJzcQB+AHBxAH4Ac3EAfgB1dXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAABzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAV1cYtVrdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQATS9Vc2Vycy9rZGl2aW5jZW56by9EZXNrdG9wL0ZQIFByZXNlbnRhdGlvbi9TY2FsYS1GUC90YXJnZXQvc2NhbGEtMi4xMi9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAU/+2+sFJWRjhZB8ju4D+6ikt8rqA=
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/Trampoline.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhw2FoJoAAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAXc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hw6E2d1nQABm5vdGlmeXNxAH4ADEg6MZt0AAR3YWl0c3EAfgAMvELsUnQADSRhc0luc3RhbmNlT2ZzcQB+AAwM54hrdAAGZXF1YWxzc3EAfgAMEZPDeHQADGFzSW5zdGFuY2VPZnNxAH4ADPRF/eh0AANydW5zcQB+AAxJuToFdAAMc3luY2hyb25pemVkc3EAfgAMim2pH3QADSRpc0luc3RhbmNlT2ZzcQB+AAzgrUqwdAAJbm90aWZ5QWxsc3EAfgAM6ytD/nQADGlzSW5zdGFuY2VPZnNxAH4ADIpSFst0AAVhcHBseXNxAH4ADI5EWQR0AAI9PXNxAH4ADGh9HgB0AAVjbG9uZXNxAH4ADP0RXh90AAYkaW5pdCRzcQB+AAz3OKs9dAAIdG9TdHJpbmdzcQB+AAzlSv+jdAACIT1zcQB+AAxkBNDVdAAIZ2V0Q2xhc3NzcQB+AAxuZzygdAAKVHJhbXBvbGluZXNxAH4ADDGWsP10AAJuZXNxAH4ADORYndp0AAJlcXNxAH4ADNua17R0AAIjI3NxAH4ADCy5Wy50AAhmaW5hbGl6ZXNxAH4ADAgKifJ0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAJzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEV4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cAlxAH4AMXVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAABc3IAF3hzYnRpLmFwaS5UeXBlUGFyYW1ldGVyZ2lV2+NykGsCAAZbAAthbm5vdGF0aW9uc3EAfgBKTAACaWRxAH4ADUwACmxvd2VyQm91bmR0ABBMeHNidGkvYXBpL1R5cGU7WwAOdHlwZVBhcmFtZXRlcnNxAH4AR0wACnVwcGVyQm91bmRxAH4AV0wACHZhcmlhbmNldAAUTHhzYnRpL2FwaS9WYXJpYW5jZTt4cHVxAH4AUAAAAAB0AAxUcmFtcG9saW5lLkFzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwdAAHTm90aGluZ3NyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AXnNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4Aa3VxAH4AVAAAAABzcQB+AFx0AANBbnlxAH4AZH5yABJ4c2J0aS5hcGkuVmFyaWFuY2UAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAlJbnZhcmlhbnR+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cQB+AHR0AAVUcmFpdHVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhxAH4AXnNxAH4AfHNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBFTAAJaW5oZXJpdGVkcQB+AEVMAAdwYXJlbnRzcQB+AEV4cQB+AF9zcQB+AHx1cQB+AEAAAAAAc3EAfgB8dXEAfgBAAAAAAHNxAH4AfHVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAACc3EAfgBcdAAGT2JqZWN0c3EAfgBic3EAfgBldXEAfgBoAAAAA3NxAH4AanQABGphdmFzcQB+AGp0AARsYW5ncQB+AG9zcQB+AFxxAH4AcnNxAH4AYnNxAH4AZXVxAH4AaAAAAAJzcQB+AGpxAH4AbXEAfgBvc3EAfgBCcQB+AE91cQB+AFAAAAAAc3EAfgBSAHQAClRyYW1wb2xpbmV1cQB+AFQAAAAAfnEAfgB3dAAGTW9kdWxldXEAfgB6AAAAAHNxAH4AfHEAfgCAc3EAfgB8c3EAfgCCc3EAfgB8dXEAfgBAAAAAAHNxAH4AfHVxAH4AQAAAAABzcQB+AHx1cQB+AIkAAAACc3EAfgBccQB+AIxzcQB+AGJzcQB+AGV1cQB+AGgAAAADc3EAfgBqcQB+AJFzcQB+AGpxAH4Ak3EAfgBvc3EAfgBccQB+AHJzcQB+AGJzcQB+AGV1cQB+AGgAAAACc3EAfgBqcQB+AG1xAH4Ab3VyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAAc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFdXGLVa3VyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AE0vVXNlcnMva2RpdmluY2Vuem8vRGVza3RvcC9GUCBQcmVzZW50YXRpb24vU2NhbGEtRlAvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFNLjlVsRvNDW6Co57UChhvZejEx1
+external apis:
+0 items
+source infos:
+5 items
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/AnagramSearch.scala -> 
+AAAAAAAAAAA=
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/Calculator.scala -> 
+AAAAAAAAAAA=
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/DataTransformer.scala -> 
+AAAAAAAAAAA=
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/IO.scala -> 
+AAAAAAAAAAA=
+/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/scala/Trampoline.scala -> 
+AAAAAAAAAAA=
+compilations:
+1 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXVxi1Wt1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATS9Vc2Vycy9rZGl2aW5jZW56by9EZXNrdG9wL0ZQIFByZXNlbnRhdGlvbi9TY2FsYS1GUC90YXJnZXQvc2NhbGEtMi4xMi9jbGFzc2VzdAABLw==
