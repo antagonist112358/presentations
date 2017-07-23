@@ -18,7 +18,7 @@ object Calculator {
       case "-" => (x, y) => x - y
       case "*" => (x, y) => x * y
       case "/" => (x, y) => x / y
-      case "%" => (x, y) => x % y
+      // Todo: Add Modulo
       case invalidOp => throw new RuntimeException(s"Unknown integer operation: $invalidOp")
     }
 

@@ -94,7 +94,7 @@ def fibonacciTailRecMemo(number: Int) : BigInt = {
   fibMemo(number, 0, 1)
 }
 
-val fibCalc: FibCalculator = fibonacci
+val fibCalc: FibCalculator = fibonacciTailRecMemo
 
 printFib(0, fibCalc)
 printFib(1, fibCalc)

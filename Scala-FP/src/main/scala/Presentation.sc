@@ -3,17 +3,21 @@
 /*****************************************/
 type MsgTransform = String => String
 
+def extractTokensThen(str: String, splitChar: Char = ' ') : (String => String) => Array[String]
+
 def joinTokens(tokens: Array[String], joinStr: String = " ") : String = tokens.mkString(joinStr)
 
-def transformTokens(str: String, f: String => String) : String = {
-  joinTokens(
-    str.split(' ')
-      .map(f)
-      .filterNot(_.isEmpty)
-  )
+def transformTokens(str: String, f: String => String) : String = joinTokens(
+  extractTokensThen(str)(f)
+    .filterNot(_.isEmpty)
+)
+
+def debugPrinter(str: String) : String = {
+  println(s"Debug: $str")
+  return str
 }
 
-val debugPrint : MsgTransform = (str: String) => { println(s"Debug: $str"); str }
+val debugPrint: MsgTransform = debugPrinter
 val capitalize : MsgTransform = transformTokens(_, s => s.toLowerCase.capitalize)
 val removeWords: MsgTransform = transformTokens(_, { s =>
   val pronouns = List("the", "we", "us", "me", "you", "he", "she")
@@ -26,15 +30,12 @@ val pipeline = List(
   debugPrint
 )
 
-def processInputText(text: String, operations: Seq[MsgTransform]) : String =
-  operations.foldLeft(text) { (txt, op) => op(txt) }
-
+def processInputText(text: String, operations: Seq[MsgTransform]) : String = operations.foldLeft(text) { (txt, op) => op(txt) }
 val processor: String => String = processInputText(_, pipeline).trim()
 
 val processInput = "She said that he saw The QUICK brown fOx jump over the LAzY dogs Back"
-val processOutput = processor(processInput)
 
-println(s"Output: $processOutput")
+println(s"Output: ${processor(processInput)}")
 
 
 
@@ -51,16 +52,15 @@ log("Some really important debug statement")
 
 lazy val theMeaningOfLife = {
   Thread.sleep(500 * 1000) // Five hundred seconds
-  42 // Wait ...it only took 500 seconds to compute the meaning of life??!
+  42 // Wait ...it only takes 500 seconds to compute the meaning of life??!
 }
-
 
 
 /************************/
 /*** Pattern Matching ***/
 /************************/
 def capitalize(str: String) : String = {
-  if (str.isEmpty) return ""
+  if (str == null || str.isEmpty) return ""
   else if (str(0).isUpper) return str
   else {
     val firstChar = str(0)

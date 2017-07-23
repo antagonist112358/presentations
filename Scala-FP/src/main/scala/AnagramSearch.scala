@@ -17,7 +17,7 @@ object AnagramSearch {
       makeSet(wordsIter, acc + wordsIter.next().toLowerCase)
     } else acc
 
-    val filePath = """/Users/kdivincenzo/Desktop/FP Presentation/Scala-FP/src/main/resources/words.txt"""
+    val filePath = """D:\Development\Workspaces\Scala-FP\src\main\resources\words.txt"""
 
     (for {
       stream <- IO(Source.fromFile(filePath))
@@ -91,7 +91,6 @@ object AnagramSearch {
     foldSeqRec(seq, initial)
   }
 
-  /* Impure */
   def timeFunction[T](title: String, func: => T) : T = {
     val start = LocalDateTime.now()
     val res = func
@@ -111,7 +110,6 @@ object AnagramSearch {
     else state
   }
 
-  /* Impure */
   def main(args: Array[String]) : Unit = {
     println(s"""Searching dictionary of ${dictionary.size} words for all anagrams of "$sourceText"...""")
 

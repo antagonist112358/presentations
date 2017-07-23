@@ -48,13 +48,11 @@ object DataTransformer {
       .toVector
   }
 
-  @inline private def makeOutputFilename(sourceFile: File, postfix: String) =
-    (sourceFile.getName.split(".").toSeq match {
-      case name :: tail => name :: postfix :: tail
-    }).mkString("")
+  @inline private def makeOutputFilename(sourceFile: File, postfix: String) = (sourceFile.getName.split(".").toSeq match {
+    case name :: tail => name :: postfix :: tail
+  }).mkString("")
 
-  @inline private def makeOutputFile(sourceFile: File, postfix: String) =
-    new File(sourceFile.getParentFile, makeOutputFilename(sourceFile, postfix))
+  @inline private def makeOutputFile(sourceFile: File, postfix: String) = new File(sourceFile.getParentFile, makeOutputFilename(sourceFile, postfix))
 
   private def fileToStream(file: File) : Stream[String] = {
     def readFileRec(reader: BufferedReader) : Stream[String] = {
@@ -113,6 +111,7 @@ object DataTransformer {
       }
     }
   }
+
 
   def processFilesInPathParallel(inputPath: String, fileFilter: Regex, outputPath: String) : Try[Seq[Future[Results]]] = Try(iterateMatchingFiles(inputPath, fileFilter)) map { allFiles =>
     for (file <- allFiles) yield {

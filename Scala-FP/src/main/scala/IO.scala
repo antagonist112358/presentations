@@ -1,7 +1,6 @@
 import scala.util.Try
-
-
 // Example of the IO A.D.T., with Monadic support
+
 sealed trait IO[A] {
   import IO._
 
@@ -25,3 +24,4 @@ object IO {
 
   def println(msg: String) : IO[Unit] = IO(Predef.println(msg))
 }
+
